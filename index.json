@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "jaraco.ui",
+  "versions": [
+    {
+      "commit": "3e251f9967a550a119925c25649e5c40ac917c9d",
+      "tag": "",
+      "parsed_at": "2026-10-20T11:02:17.747174+00:00"
+    }
+  ]
+}
